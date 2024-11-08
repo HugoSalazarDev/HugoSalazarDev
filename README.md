@@ -22,8 +22,8 @@ I'm a Web Application Development (DAW) student focused on backend development, 
 
 Here are a few of my recent projects:
 
-### 📊 [Client Management Application](https://github.com/yourusername/client-management)
-A client management application built with **Java** and **MySQL**. It enables efficient client registration, modification, and data visualization.
+### 📋 [Task Manager Application](https://github.com/yourusername/task-manager)
+A task management application developed with **Java** and **MySQL**. It enables users to create, organize, and prioritize tasks efficiently, with features for setting deadlines, tracking progress, and managing multiple projects.
 
 ### 🖥️ [Personal Website](https://github.com/yourusername/personal-website)
 An online portfolio created with **HTML**, **CSS**, and **JavaScript**. It showcases my profile, projects, and experience.
@@ -57,7 +57,7 @@ If you'd like to chat about tech, collaborate on a project, or just say hi, here
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoSalazarDev&show_icons=true&theme=radical)
 
 ---
 
